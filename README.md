@@ -122,6 +122,89 @@ DevOps enthusiast and Computer Science graduate with strong skills in CI/CD, aut
 
 ---
 
+### 🏠 Smart Home Automation System
+
+> IoT-Driven Home Automation Using Raspberry Pi, Python, MQTT, and Real-Time Web Control
+
+**🎯 Objective**: Build a fully functional smart-home automation system capable of controlling AC appliances, reading sensor data, and enabling real-time monitoring and automation through a web dashboard.
+
+**🔧 Technologies**: Raspberry Pi, Python, Flask, MQTT, GPIO, Sensors & Relays, Linux
+
+**📊 Key Achievements**:
+- Designed and implemented a complete **IoT-based automation system** using Raspberry Pi and Python
+- Integrated **temperature**, **motion**, and **ambient sensors** for real-time data collection
+- Controlled **AC appliances via relays**, enabling remote switching and automated routines
+- Developed a **Flask-based dashboard** for device control and sensor visualization
+- Implemented **MQTT publish/subscribe messaging** for reliable device communication
+- Built **automation logic** (e.g., sensor-triggered events, scheduled tasks, remote overrides)
+- Structured the system using modular Python code for scalability and maintainability
+
+**🛠️ Technical Highlights**:
+- Used **GPIO** and **I2C/SPI** protocols for sensor and hardware communication
+- Implemented **real-time MQTT messaging** between devices and the central controller
+- Designed **responsive web UI** enabling monitoring and control from any device
+- Built fault-tolerant scripts to handle hardware glitches and ensure safe operations
+- Created logs and device states for debugging and reliable automation
+
+[![View Project](https://img.shields.io/badge/View%20Project-smart--home-388E3C?style=flat-square&logo=github)](https://github.com/rootminusone8004/smart_home)
+
+---
+
+### 🎯 YOLO Object Detection on Raspberry Pi
+
+> Edge-Based Real-Time Object Detection Using YOLO, OpenCV, and Python on Raspberry Pi
+
+**🎯 Objective**: Build a lightweight, real-time object detection system capable of running on low-power hardware using YOLO and OpenCV.
+
+**🔧 Technologies**: Python, YOLO, OpenCV, Raspberry Pi, NumPy, Linux
+
+**📊 Key Achievements**:
+- Implemented **real-time object detection** on Raspberry Pi using the YOLO model and OpenCV
+- Integrated a **live camera feed** with preprocessing and inference pipelines optimized for edge devices
+- Achieved consistent detection performance under constrained hardware using model and frame-size optimization
+- Built a **logging pipeline** to record detected objects and timestamps for later analysis
+- Designed a responsive display overlay showing bounding boxes and confidence scores in real time
+- Ensured system reliability with fallback modes for low-light or low-performance conditions
+
+**🛠️ Technical Highlights**:
+- Used **OpenCV** for frame capture, resizing, preprocessing, and visualization
+- Loaded and ran **YOLO model weights** optimized for Raspberry Pi’s CPU
+- Implemented **non-max suppression** (NMS) and post-processing for clean, accurate detections
+- Optimized inference speed by tuning frame rates, input resolution, and model selection
+- Modularized the Python pipeline for clarity, debugging, and future model upgrades
+
+[![View Project](https://img.shields.io/badge/View%20Project-YOLO-388E3C?style=flat-square&logo=github)](https://github.com/rootminusone8004/YOLO)
+
+---
+
+### 📈 Economic Analysis & Predictive Modeling
+
+> Data-Driven Economic Insights Using World Bank Indicators, Machine Learning, and Interactive Dashboards
+
+**🎯 Objective**: Analyze global economic indicators, build predictive models, and provide interactive data visualizations for intuitive understanding of country development status.
+
+**🔧 Technologies**: Python, Pandas, Scikit-Learn, Matplotlib/Seaborn, Plotly, Flask/Streamlit
+
+**📊 Key Achievements**:
+- Processed and analyzed **World Bank economic datasets** to uncover trends, variations, and correlations across countries
+- Developed **predictive machine-learning models** to classify countries based on development status
+- Created **interactive dashboards** to visualize indicators, predictions, and comparisons
+- Built automated **data preprocessing** and **feature engineering** pipelines for consistent analysis
+- Designed **custom visualizations** for socioeconomic metrics using Matplotlib, Seaborn, and Plotly
+- Delivered an intuitive user interface to explore metrics and prediction outcomes in real time
+
+**🛠️ Technical Highlights**:
+- Utilized **Pandas** and **NumPy** for robust data cleaning, transformation, and merging
+- Applied multiple ML algorithms and evaluated performance metrics
+- Implemented **cross-validation**, **scaling** and **hyperparameter tuning** for model reliability
+- Built visual insights including heatmaps, line charts, bar plots, and correlation matrices
+- Implemented a **Flask/Streamlit-based web app** for serving predictions and visualizations
+- Modularized the project for reusability, clarity, and scalability
+
+[![View Project](https://img.shields.io/badge/View%20Project-Economic--Analysis-388E3C?style=flat-square&logo=github)](https://github.com/rootminusone8004/Economic_analysis)
+
+---
+
 ### 📱 Bazarnote Android App
 
 > Feature-rich Android app built with Java, offering seamless note-taking and task management with an intuitive user interface and offline support.
